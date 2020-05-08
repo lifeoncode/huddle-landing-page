@@ -370,7 +370,10 @@ footer p{
         padding: 0 2rem;
     }
 
-
+    #a, #c{
+        display: flex;
+        flex-direction: column-reverse;
+    }
 
     .card{
         padding: 1rem 0;
